@@ -5,6 +5,7 @@ this command from the command prompt:
 
     python setup.py install
 
+	dfsdaf
 If you're upgrading from a previous version, you need to remove it first.
 
 AS AN ALTERNATIVE, you can just copy the entire "django" directory to Python's
